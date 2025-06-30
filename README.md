@@ -1,5 +1,5 @@
 <div align="center">
-  <img align="center" width="200" src="https://github.com/Souyyy/Rave_project_react/blob/main/assets/icon.png" alt="Rave"/>
+  <img align="center" width="300" src="https://github.com/Souyyy/Rave_project_react/blob/main/assets/icon.png" alt="Rave"/>
 </div>
 
 <h3 align="center">Rave Project</h3>
