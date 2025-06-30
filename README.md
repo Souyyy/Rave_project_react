@@ -24,7 +24,7 @@ Ce projet utilise plusieurs technologies modernes pour créer une expérience in
 ```git clone https://github.com/Souyyy/Rave_project_react/```.
 
 3. Accéder au répertoire
-```cd Rave_project_react-main```.
+```cd Rave_project_react```.
 
 4. Installer les dépendances
 ```npm install```.
